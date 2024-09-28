@@ -1,2 +1,0 @@
-# rakao
-random chatting website
